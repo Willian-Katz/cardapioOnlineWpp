@@ -1,6 +1,6 @@
 # Projeto Blizzard
 
-![Tela inicial do projeto](/assets/Projeto-Pokemon-Codeboost.png)
+![Tela inicial do projeto](/img/Restaurante-Seja-bem-vindo-representacao.png)
 
 ## Descrição
 
