@@ -32,7 +32,8 @@ cardapio.metodos = {
         }
 
         $.each(filtro, (i, e) => {
-            let temp = cardapio.templates.item.replace(/\${img}/g, e.img)
+            let temp = cardapio.templates.item
+            .replace(/\${img}/g, e.img)
             .replace(/\${name}/g, e.name)
             .replace(/\${price}/g, e.price.toFixed(2).replace('.', ','))
             .replace(/\${id}/g, e.id);
